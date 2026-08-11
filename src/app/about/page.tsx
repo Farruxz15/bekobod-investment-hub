@@ -213,6 +213,22 @@ export default function AboutPage() {
                 <p key={i} className="text-gray-600 leading-relaxed text-justify indent-8">{p}</p>
               ))}
             </div>
+
+            <div className="mt-8 rounded-2xl border-l-4 border-[#4a9c4e] bg-[#f4f9f4] p-6 md:p-8">
+              <h4 className="text-lg md:text-xl font-bold text-[#c0392b] mb-4 uppercase tracking-wide">
+                {t.about.news.post.pdf.title}
+              </h4>
+              <p className="text-[#1a2744] font-semibold leading-relaxed mb-3">
+                {t.about.news.post.pdf.project}
+              </p>
+              <p className="text-gray-600 leading-relaxed mb-3 text-justify">
+                {t.about.news.post.pdf.desc}
+              </p>
+              <p className="text-gray-600 leading-relaxed text-justify">
+                {t.about.news.post.pdf.req}
+              </p>
+            </div>
+
             <a
               href={t.about.news.post.pdf.url}
               target="_blank"
