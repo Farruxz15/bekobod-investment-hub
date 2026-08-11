@@ -238,6 +238,10 @@ export const translations = {
             'These negotiations serve as an important step in attracting foreign direct investment, developing industry, and ensuring the region\'s economic growth.',
           ],
           pdf: {
+            title: 'ATTENTION — ANNOUNCEMENT!',
+            project: 'Project: development of the master plan and construction (development) project for the 104-hectare “Yangi Oʻzbekiston” district in Bekabad, Tashkent region.',
+            desc: 'Within the tender, a master plan and construction design-and-estimate documentation must be developed for the 104-hectare “Yangi Oʻzbekiston” district. The works must comply with urban-planning, engineering-and-utility infrastructure, and functional zoning requirements.',
+            req: 'Organizations holding the relevant license and experience in large master-planning projects are eligible to participate.',
             label: 'Download announcement (PDF)',
             url: '/news/elon-tender.pdf',
           },
@@ -1107,6 +1111,10 @@ export const translations = {
             'Ushbu muzokaralar hududga toʻgʻridan-toʻgʻri xorijiy investitsiyalarni jalb qilish, sanoatni rivojlantirish va iqtisodiy oʻsishni taʼminlashda muhim qadam boʻlib xizmat qiladi.',
           ],
           pdf: {
+            title: 'DIQQAT — EʼLON!',
+            project: 'Loyiha: Toshkent viloyati, Bekobod tumanida joylashgan 104 gektarli “Yangi Oʻzbekiston” massivi bosh rejasi (master-plan) va qurilish loyihasini ishlab chiqish.',
+            desc: 'Tender doirasida 104 gektar hududni qamrab oluvchi “Yangi Oʻzbekiston” massivi uchun bosh reja va qurilish loyiha-smeta hujjatlari ishlab chiqilishi talab etiladi. Ishlar shahar rejalashtirish, muhandislik-kommunikatsiya infratuzilmasi va funksional zonalashtirish talablariga javob berishi shart.',
+            req: 'Tegishli litsenziya va yirik master-plan loyihalari boʻyicha tajribaga ega tashkilotlar ishtirok etishi mumkin.',
             label: 'Eʼlonni yuklab olish (PDF)',
             url: '/news/elon-tender.pdf',
           },
@@ -1926,6 +1934,10 @@ export const translations = {
             'Данные переговоры служат важным шагом в привлечении прямых иностранных инвестиций, развитии промышленности и обеспечении экономического роста региона.',
           ],
           pdf: {
+            title: 'ВНИМАНИЕ — ОБЪЯВЛЕНИЕ!',
+            project: 'Проект: разработка генерального плана (мастер-план) и проекта застройки массива «Янги Ўзбекистон» площадью 104 гектара в Бекабадском районе Ташкентской области.',
+            desc: 'В рамках тендера требуется разработать генеральный план и проектно-сметную документацию застройки для массива «Янги Ўзбекистон» площадью 104 гектара. Работы должны соответствовать требованиям градостроительства, инженерно-коммуникационной инфраструктуры и функционального зонирования.',
+            req: 'К участию приглашаются организации, имеющие соответствующую лицензию и опыт реализации крупных проектов мастер-планирования.',
             label: 'Скачать объявление (PDF)',
             url: '/news/elon-tender.pdf',
           },
@@ -2733,6 +2745,10 @@ export const translations = {
             '此次会谈是吸引外国直接投资、发展工业和保障地区经济增长的重要一步。',
           ],
           pdf: {
+            title: '重要公告！',
+            project: '项目：编制位于塔什干州别卡巴德区、占地104公顷的“新乌兹别克斯坦”住区总体规划（master-plan）及建设项目。',
+            desc: '在招标范围内，需为占地104公顷的“新乌兹别克斯坦”住区编制总体规划及建设项目的设计与概预算文件。相关工作须符合城市规划、工程管线基础设施及功能分区的要求。',
+            req: '持有相关资质并具有大型总体规划项目经验的机构均可参与。',
             label: '下载公告 (PDF)',
             url: '/news/elon-tender.pdf',
           },
