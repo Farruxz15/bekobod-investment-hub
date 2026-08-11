@@ -213,6 +213,15 @@ export default function AboutPage() {
                 <p key={i} className="text-gray-600 leading-relaxed text-justify indent-8">{p}</p>
               ))}
             </div>
+            <a
+              href={t.about.news.post.pdf.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 mt-8 px-6 py-3 rounded-full bg-[#4a9c4e] text-white font-semibold hover:bg-[#3d8341] transition-colors"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              {t.about.news.post.pdf.label}
+            </a>
           </div>
         </div>
       </section>
