@@ -237,6 +237,10 @@ export const translations = {
             'The parties reviewed the industrial and logistics potential of Bekabad district, its existing infrastructure, and the favourable conditions created for investors. Preliminary agreements were also reached on establishing mutually beneficial cooperation to implement joint projects in the future.',
             'These negotiations serve as an important step in attracting foreign direct investment, developing industry, and ensuring the region\'s economic growth.',
           ],
+          pdf: {
+            label: 'Download announcement (PDF)',
+            url: '/news/elon-tender.pdf',
+          },
         },
       },
     },
@@ -1102,6 +1106,10 @@ export const translations = {
             'Tomonlar Bekobod tumani hududining sanoat va logistika imkoniyatlari, mavjud infratuzilma hamda investorlar uchun yaratilgan qulay shart-sharoitlar bilan tanishdi. Shuningdek, kelgusida qoʻshma loyihalarni amalga oshirish yuzasidan oʻzaro manfaatli hamkorlikni yoʻlga qoʻyish boʻyicha dastlabki kelishuvlarga erishildi.',
             'Ushbu muzokaralar hududga toʻgʻridan-toʻgʻri xorijiy investitsiyalarni jalb qilish, sanoatni rivojlantirish va iqtisodiy oʻsishni taʼminlashda muhim qadam boʻlib xizmat qiladi.',
           ],
+          pdf: {
+            label: 'Eʼlonni yuklab olish (PDF)',
+            url: '/news/elon-tender.pdf',
+          },
         },
       },
     },
@@ -1917,6 +1925,10 @@ export const translations = {
             'Стороны ознакомились с промышленными и логистическими возможностями Бекабадского района, существующей инфраструктурой и благоприятными условиями, созданными для инвесторов. Также были достигнуты предварительные договорённости о налаживании взаимовыгодного сотрудничества по реализации совместных проектов в будущем.',
             'Данные переговоры служат важным шагом в привлечении прямых иностранных инвестиций, развитии промышленности и обеспечении экономического роста региона.',
           ],
+          pdf: {
+            label: 'Скачать объявление (PDF)',
+            url: '/news/elon-tender.pdf',
+          },
         },
       },
     },
@@ -2720,6 +2732,10 @@ export const translations = {
             '双方了解了别卡巴德区的工业和物流潜力、现有基础设施以及为投资者创造的有利条件。此外，双方还就未来实施合作项目、建立互利合作达成了初步共识。',
             '此次会谈是吸引外国直接投资、发展工业和保障地区经济增长的重要一步。',
           ],
+          pdf: {
+            label: '下载公告 (PDF)',
+            url: '/news/elon-tender.pdf',
+          },
         },
       },
     },
